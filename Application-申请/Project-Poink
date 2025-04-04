@@ -1,0 +1,134 @@
+## Please fill out your project details using this template and submit a PR.
+   The naming format should be 'Project-YYMMDD'.
+
+1. Company / Project Name:
+   Poink
+
+2. Official Links (Website, GitHub, LinkedIn, etc.):
+   [Not Provided]
+
+3. Your Name:
+   Allen Joseph
+
+4. Email Address:
+   allenjosephquery@gmail.com
+
+5. Telegram or Wechat of POC:
+   @allenjosephaj
+
+6. Which Funding Category are you applying for? 
+   AI, DeFi, Tooling, Infrastructure
+
+7. Product Stage:
+   Early Adopters
+
+8. Introduction to your Project:
+   Poink is a Web3 infrastructure that enables seamless interactions between users and 
+   blockchain content directly through their social media experience on X (formerly Twitter). 
+   It allows users to connect with any ecosystem and interact with various blockchain networks 
+   and wallets through a simple interface.
+
+9. What Problem are you trying to Solve, and why is it Important?
+   Problems that Poink Solves:
+     - Complex setup and fragmentation in Web3 interactions.
+     - The need for separate platforms to interact with blockchain content.
+     - Difficulty in accessing Web3 content in a seamless and user-friendly manner.
+
+10. What is your Proposed Solution?
+    Poink addresses these issues by:
+      - Simplifying Web3 interactions:
+          * Single interface: Access Web3 content directly through social media (X/Twitter).
+      - Eliminating the need for multiple platforms:
+          * Integration with X: Interact with blockchain content without switching platforms.
+      - Enhancing user experience:
+          * Quick response times: Bot responds within approximately 120 seconds.
+          * Transparent transactions: Users can view detailed transaction processes.
+          * Robust security: Utilizes industry-standard encryption and security protocols.
+
+11. Any Competitions?
+    - Solana Blinks
+
+12. Why Aptos?
+    - Poink is designed to thrive on high-performance blockchains like Aptos. Aptos offers fast 
+      transaction speeds, low fees, and exceptional scalability through its Move programming language. 
+      Its focus on security and developer-friendly tools aligns with our objective to onboard more dApps, 
+      thereby improving accessibility and user experience on the platform.
+
+13. Team Background:
+    Allen Joseph – CEO (24 years old)
+      LinkedIn: https://www.linkedin.com/in/allenjosephaj/
+      Previous Projects: Bitlayer, Gnosis, Chainstack, Nethermind
+      Brief History:
+        - Developed a Facebook game in 2015 that attracted 10,000 players within months.
+        - Won the Google Code-In globally in high school.
+
+    Sushan Shetty – CTO (22 years old)
+      LinkedIn: https://www.linkedin.com/in/sushaan-shetty-16a9611a3/
+      Brief History:
+        - Involved with Humanity Protocol, bringing strong blockchain and Web3 technical expertise.
+
+    Aditya Bhansali – COO (24 years old)
+      LinkedIn: https://www.linkedin.com/in/aditya-bhansali-80b255219/
+      Previous Projects: Chainlink, Lighthouse, Botanix
+      Brief History:
+        - Over 3 years of experience in Web3 business development, focusing on strategic partnerships 
+          and technical integrations.
+
+    Aditya Mehrotra – CMO (26 years old)
+      LinkedIn: https://www.linkedin.com/in/aditya-mehrotra20/
+      Brief History:
+        - Award-winning Brand Strategist and Growth Marketer with a Gold Medal Master’s degree from 
+          King’s College London.
+        - Experience with major brands such as Burger King, Assassin's Creed, and Meta.
+
+14. How did the Founders Meet?
+    - We met at various Web3 events starting in 2021 and maintained our connection. The idea for 
+      Poink was conceived last year, leading to the formation of this team.
+
+15. Previous Collaborative Projects & Division of Responsibilities:
+    - This is our first project together.
+      * Allen Joseph (CEO): Oversees technology strategy, operations, and business development.
+      * Sushan Shetty (CTO): Manages tech integrations and platform updates.
+      * Aditya Bhansali (COO): Handles day-to-day operations, partner communications, and strategic marketing.
+      * Aditya Mehrotra (CMO): Leads marketing, branding, and design initiatives.
+
+16. Founders' Commitment:
+    - Aditya Bhansali (COO) is dedicated full time to Poink.
+    - Other founders contribute significant hours daily alongside their current roles:
+        * Allen Joseph (CEO): ~5 hours per day.
+        * Sushan Shetty (CTO): ~4 hours per day.
+        * Aditya Mehrotra (CMO): ~5 hours per day.
+
+17. Where are the Founders Based?
+    - India
+
+18. Budget Proposal with Milestones:
+    Total Grant Requested:  $35,000
+    Project Duration:       2 Months
+
+    ------------------------------------------------------------
+    Milestone 1: Aptos Integration & Initial Platform Enhancement (Month 1)
+    ------------------------------------------------------------
+    Budget Allocation:      $20,000
+    Objectives:
+      - Develop and integrate Aptos-specific modules for secure, efficient blockchain interactions.
+      - Enhance core platform features (API endpoints, transaction handling) to leverage Aptos’ capabilities.
+      - Conduct an internal security review and update technical documentation.
+    Deliverables:
+      - A fully functional Aptos integration module on Mainnet with select partners.
+      - Updated core platform features.
+
+    ------------------------------------------------------------
+    Milestone 2: Pilot Testing, Optimization & Full Deployment (Month 2)
+    ------------------------------------------------------------
+    Budget Allocation:      $15,000
+    Objectives:
+      - Launch a pilot program with selected partners to validate performance and user experience.
+      - Refine and optimize the platform based on pilot feedback.
+      - Prepare for full deployment with initial marketing outreach and partner integrations.
+    Deliverables:
+      - A successful pilot test with a detailed performance and feedback report.
+      - A finalized platform ready for dApp deployment and initial marketing initiatives.
+
+19. Does the Core Team need Office Space Support from Aptos Space (HK)?
+    - No
